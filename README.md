@@ -1,0 +1,2 @@
+# NUC1262BSP_ISP_HID_VarAllocate
+ NUC1262BSP_ISP_HID_VarAllocate
